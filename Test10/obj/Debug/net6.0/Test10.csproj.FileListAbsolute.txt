@@ -1,0 +1,15 @@
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\bin\Debug\net6.0\Test10.exe
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\bin\Debug\net6.0\Test10.deps.json
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\bin\Debug\net6.0\Test10.runtimeconfig.json
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\bin\Debug\net6.0\Test10.dll
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\bin\Debug\net6.0\Test10.pdb
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\obj\Debug\net6.0\Test10.csproj.AssemblyReference.cache
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\obj\Debug\net6.0\Test10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\obj\Debug\net6.0\Test10.AssemblyInfoInputs.cache
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\obj\Debug\net6.0\Test10.AssemblyInfo.cs
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\obj\Debug\net6.0\Test10.csproj.CoreCompileInputs.cache
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\obj\Debug\net6.0\Test10.dll
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\obj\Debug\net6.0\refint\Test10.dll
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\obj\Debug\net6.0\Test10.pdb
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\obj\Debug\net6.0\Test10.genruntimeconfig.cache
+C:\Users\lenak\Desktop\ИП\ПРОГРАММИРОВАНИЕ\Решение задач 2\Test10\obj\Debug\net6.0\ref\Test10.dll
